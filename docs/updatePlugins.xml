@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <plugin id="com.nx3games.nxgetstringpreview" url="https://kimyj93.github.io/NxGetStringPreview-Distribution/ReSharperPlugin.NxGetStringPreview-1.4.1.zip" version="1.4.1">
+  <plugin id="com.nx3games.nxgetstringpreview" url="https://kimyj93.github.io/NxGetStringPreview-Distribution/ReSharperPlugin.NxGetStringPreview-1.4.2.zip" version="1.4.2">
     <name>NxGetStringPreview</name>
     <idea-version since-build="243.0" until-build="251.*" />
   </plugin>
